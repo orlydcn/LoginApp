@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_to_app">Welcome to my login app</string>
+    <string name="login">Sign in</string>
+    <string name="register">Register</string>
+    <string name="login_title">Sign in</string>
+    <string name="user_email">Email</string>
+    <string name="user_email_empty_error">Email cannot be empty</string>
+    <string name="user_password">Password</string>
+    <string name="password_format_error">Must contain at least one letter,number and a special char</string>
+    <string name="password_length_error">Must be 8 characters long</string>
+    <string name="password_hint"><![CDATA[A–Za–z,0–9,@#$%^&+=]]></string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_register">Sign up now!</string>
+    <string name="user_email_format_error">Email format error</string>
+    <string name="landing">Landing</string>
+    <string name="landing_welcome_user">Welcome  %1$s !!!</string>
+    <string name="account_doesnt_exist">The user doesn\'t exist</string>
+    <string name="register_title">Sign up!</string>
+    <string name="user_name">Name</string>
+    <string name="register_has_account">Have an account?</string>
+    <string name="register_login">Sign in!</string>
+    <string name="user_name_empty_error">Name cannot be empty</string>
+    <string name="email_already_exist">Email is already registered</string>
+    <string name="error">An error has occurred</string>
+</resources>
